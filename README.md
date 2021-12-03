@@ -100,7 +100,7 @@ Strong background in management and leadership.
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
+Laravel                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
 PHP                      5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 
 CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 JavaScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
@@ -121,7 +121,7 @@ JavaScript               2 repos             ███░░░░░░░░�
     <a href="mailto:fazle08rabbi@gmail.com"><img src="https://img.shields.io/badge/-fazle08rabbi@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red"/></a>
     <a href="https://codecanyon.net/user/devstarit"><img src="https://img.shields.io/badge/-Envato-0077B5?style=flat-square&logo=envato&logoColor=white"/></a><br/>
     <a href="http://frabbibd.blogspot.com"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=blogger&logoColor=white"/></a><br/>
-    <a href="https://facebook.com/frabbiofficial"><img src="https://img.shields.io/badgeFazle Rabbi-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+    <a href="https://facebook.com/frabbiofficial"><img src="https://img.shields.io/badge/-Fazle Rabbi-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
     <a href="https://youtube.com/c/CodingXpress"><img src="https://img.shields.io/badge/-@youtube-1877F2?style=flat-square&logo=youtube&logoColor=white"/></a>
     <a href="https://linkedin.com/in/frabbiofficial"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>

@@ -86,15 +86,15 @@ Strong background in management and leadership.
 
 **🐱 My GitHub Data** 
 
-> 🏆 54 Contributions in the Year 2021
+> 🏆 58 Contributions in the Year 2021
  > 
 > 📦 82.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 23 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 35 Private Repositories  
 
 
 **I Mostly Code in HTML** 

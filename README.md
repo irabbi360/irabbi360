@@ -3,7 +3,7 @@
 <!--
 **irabbi360/irabbi360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="500" align="right" src="https://github.com/irabbi360/irabbi360/blob/main/images/frabbi_cover.JPG"></a>
+<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="500" align="right" src="![frabbi_cover](https://user-images.githubusercontent.com/35403788/148541767-da847840-f809-49b8-8047-6ece91074574.JPG)"></a>
 
 ## 👋 &nbsp; Hey there! I'm Fazle Rabbi
 

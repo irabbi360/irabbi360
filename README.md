@@ -71,8 +71,8 @@ Strong background in management and leadership.
 
 <p align="center">
     <a href="https://github.com/irabbi360">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=irabbi360&show_icons=true&theme=vue-light&include_all_commits=true&count_private=true" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irabbi360" />
+    <img src="https://github-readme-stats.vercel.app/api?username=irabbi360&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=irabbi360&count_private=true" />
      <img src = "https://github-readme-streak-stats.herokuapp.com?user=irabbi360&hide_border=true" width=400>
     </a>
 </p>

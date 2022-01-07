@@ -113,7 +113,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irabbi360/irabbi360/master/charts/bar_graph.png) 
 
 
- Last Updated on 01/12/2021
+ Last Updated on 07/07/2022
 <!--END_SECTION:waka-->
 
 

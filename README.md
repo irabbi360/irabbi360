@@ -2,8 +2,8 @@
 
 <!--
 **irabbi360/irabbi360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="500" align="right" src="https://user-images.githubusercontent.com/35403788/148541767-da847840-f809-49b8-8047-6ece91074574.JPG"></a>
+-->
+<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="500" align="right" src="https://user-images.githubusercontent.com/35403788/148543052-2b447026-e650-453d-8ebc-f87d82286ad2.png"></a>
 
 ## 👋 &nbsp; Hey there! I'm Fazle Rabbi
 
@@ -29,7 +29,7 @@ Strong background in management and leadership.
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/irabbi360/irabbi360/master/assets/night-coding.gif" align="right"/>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/35403788/148543709-73832473-3c6f-40c4-9242-51d996f6f3a6.gif" align="right"/>
 
 ##### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)

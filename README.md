@@ -37,13 +37,13 @@ Strong background in management and leadership.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt)
+![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 
 ##### Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
-![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=Node)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 ##### DevOps
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)

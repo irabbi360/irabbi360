@@ -96,7 +96,7 @@ Strong background in management and leadership.
 > 🔑 35 Private Repositories  
 
 
-**I Mostly Code in PHP Laravel** 
+**I Mostly Code in PHP Laravel Vue.js** 
 
 ```text
 Laravel                     5 repos             █████████░░░░░░░░░░░░░░░░   35.71% 

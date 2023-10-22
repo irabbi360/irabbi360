@@ -14,6 +14,7 @@ I would like to introduce myself as a
 develop web applications. Working as a web developer with over 3+ years of
 experience. Specializing in frontend & backend development. Having an in-depth knowledge of advanced HTML, CSS, JavaScript, JQuery, Ajax, PHP, Laravel, Vuejs, Nuxtjs, Vuex, etc.
 Strong background in management and leadership.
+Currently, **I'm open to work and employment opportunities**.
 <br/>
 <br/>
 <br/>

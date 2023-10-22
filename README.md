@@ -40,6 +40,7 @@ Strong background in management and leadership.
 ![Vue.js](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
 
 ##### Backend
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)

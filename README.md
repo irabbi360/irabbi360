@@ -65,6 +65,7 @@ Strong background in management and leadership.
 ![Gitlab](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=gitlab)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
 ### ⚙️ &nbsp;GitHub Analytics

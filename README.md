@@ -43,8 +43,6 @@ Currently, **I'm open to work and employment opportunities**.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irabbi360" alt="" /> </p>
 
-#### 💻 &nbsp; I'm a Full-stack Web Developer
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

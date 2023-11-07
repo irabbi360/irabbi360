@@ -33,7 +33,7 @@
 <!--
 **irabbi360/irabbi360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="500" align="right" src="https://user-images.githubusercontent.com/35403788/148543052-2b447026-e650-453d-8ebc-f87d82286ad2.png"></a>
+<a target="_blank" href="https://youtube.com/c/CodingXpress/"><img width="400" align="right" src="https://user-images.githubusercontent.com/35403788/148543052-2b447026-e650-453d-8ebc-f87d82286ad2.png"></a>
 
 ### About Me
 

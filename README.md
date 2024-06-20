@@ -5,6 +5,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-0081CB?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt-333333?style=flat&logo=nuxt.js)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
@@ -60,16 +61,13 @@ Currently, **I'm open to work and employment opportunities**.
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
-
-> 🏆 58 Contributions in the Year 2021
- > 
 > 📦 82.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 23 Public Repositories 
+> 📜 37 Public Repositories 
  > 
-> 🔑 35 Private Repositories  
+> 🔑 55 Private Repositories  
 
 
 **I Mostly Code in PHP Laravel Vue.js** 
@@ -88,7 +86,7 @@ JavaScript               2 repos             ███░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/irabbi360/irabbi360/master/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2022
+ Last Updated on 06/08/2024
 <!--END_SECTION:waka-->
 
 ### Where to find me

@@ -42,15 +42,15 @@ Hello, I'm Fazle Rabbi. I'd like to introduce myself as a Laravel Vue.js web app
 
 Currently, **I'm open to work and employment opportunities**.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irabbi360" alt="" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=irabbi360&label=Views&color=brightgreen&style=flat" alt="irabbi360" height="28"" alt="" /> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/irabbi360">
-    <img src="https://github-readme-stats.vercel.app/api?username=irabbi360&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irabbi360&count_private=true" />
-     <img src = "https://github-readme-streak-stats.herokuapp.com?user=irabbi360&hide_border=true" width=400>
+    <img src="https://github-readme-stats.vercel.app/api?username=irabbi360&count_private=true&amp;show_icons=true&amp;theme=vue&amp;include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irabbi360&count_private=true&amp;show_icons=true&amp;theme=vue" />
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=irabbi360&hide_border=true&amp;theme=vue" width=400>
     </a>
 </p>
 
@@ -80,20 +80,20 @@ JavaScript               2 repos             ███░░░░░░░░�
 
 ```
 
-
+<!--
 **Timeline**
 
 ![Chart not found](https://raw.githubusercontent.com/irabbi360/irabbi360/master/charts/bar_graph.png) 
+-->
 
-
- Last Updated on 06/08/2024
+ Last Updated on 15/07/2024
 <!--END_SECTION:waka-->
-
 ### Where to find me
-
-<a href="mailto:fazrabbi010@gmail.com"><img src="https://img.shields.io/badge/-fazrabbi010@gmail.com-333333?style=flat-square&logo=Gmail&logoColor=red"/></a>
-<a href="https://codecanyon.net/user/devstarit"><img src="https://img.shields.io/badge/-Envato-0077B5?style=flat-square&logo=envato&logoColor=white"/></a>
-<a href="https://youtube.com/c/CodingXpress"><img src="https://img.shields.io/badge/-@youtube-1877F2?style=flat-square&logo=youtube&logoColor=white"/></a>
-<a href="https://linkedin.com/in/frabbiofficial"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="http://frabbibd.blogspot.com"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=blogger&logoColor=white"/></a>
-<a href="https://facebook.com/frabbiofficial"><img src="https://img.shields.io/badge/-Fazle Rabbi-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<p align="center">
+<a href="mailto:fazrabbi010@gmail.com?subject=Hello Dear Fazle Rabbi! I am sending this message from your Github Profile. I need to talk to you!" target="_blank"><img src="https://img.shields.io/badge/-Mail Me-333333?style=flat-square&logo=Gmail&logoColor=red&link=mailto:fazrabbi010@gmail.com" height="28"/></a>
+<a href="https://codecanyon.net/user/devstarit" target="_blank"><img src="https://img.shields.io/badge/-Envato-0077B5?style=flat-square&logo=envato&logoColor=white" height="28"/></a>
+<a href="https://youtube.com/c/CodingXpress" target="_blank"><img src="https://img.shields.io/badge/-@youtube-1877F2?style=flat-square&logo=youtube&logoColor=white" height="28"/></a>
+<a href="https://linkedin.com/in/frabbiofficial" target="_blank"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="28"/></a>
+<a href="http://frabbibd.blogspot.com" target="_blank"><img src="https://img.shields.io/badge/-Fazle Rabbi-0077B5?style=flat-square&logo=blogger&logoColor=white" height="28"/></a>
+<a href="https://facebook.com/frabbiofficial" target="_blank"><img src="https://img.shields.io/badge/-Fazle Rabbi-1877F2?style=flat-square&logo=facebook&logoColor=white" height="28"/></a>
+</p>

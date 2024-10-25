@@ -42,7 +42,11 @@ Hello, I'm Fazle Rabbi. I'd like to introduce myself as a Laravel Vue.js web app
 
 Currently, **I'm open to work and employment opportunities**.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=irabbi360&label=Views&color=brightgreen&style=flat" alt="irabbi360" height="28"" alt="" /> </p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=irabbi360&label=Views&color=brightgreen&style=flat" alt="irabbi360" height="28"" alt="" />
+    <img src="https://img.shields.io/github/followers/irabbi360?label=Followers&style=flat&color=black&style=flat&logo=github" alt="irabbi360" height="28"" alt="" />
+    <img src="https://img.shields.io/github/stars/irabbi360?label=Starts&style=social&color=yellow&style=flat&logo=github" alt="irabbi360" height="28"" alt="" />
+</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
